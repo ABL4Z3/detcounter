@@ -1,0 +1,16 @@
+# Object Detection Course
+ 
+cvzone
+hydra-core
+matplotlib
+opencv-python
+Pillow
+PyYAML
+requests
+scipy
+torch
+torchvision
+tqdm
+filterpy
+scikit-image
+lap
