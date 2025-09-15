@@ -1,4 +1,4 @@
-# Car and Finger Counter Project
+# Finger and object Counter Project
 
 This project uses YOLOv8 object detection and Mediapipe hand tracking to count objects and fingers in real-time from a webcam feed. It displays the count of detected objects, fingers, and their total on the video stream along with the FPS (frames per second).
 
